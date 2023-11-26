@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://aiyouv.com:3306/demo?useSSL=false&characterEncoding=utf8&serverTimezone=GMT%2B8
+    username: demo
+    password: Zz#5678765
+
+
+
